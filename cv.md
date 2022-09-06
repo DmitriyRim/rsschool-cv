@@ -51,8 +51,8 @@ console.log(getDigitsOfNumber(311));
 
 ## Work experience ##
 
-- He developed a project at the university on the topic “Three-dimensional visualization of milling processing using WebGL".
-- Portfolio site on React using the Mui Toolset - [https://dmitriyrim.github.io](https://dmitriyrim.github.io/resume)
+* He developed a project at the university on the topic “Three-dimensional visualization of milling processing using WebGL".
+* Portfolio site on React using the Mui Toolset - [https://dmitriyrim.github.io](https://dmitriyrim.github.io/resume)
 ---
 ## Education ##
 
